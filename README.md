@@ -8,7 +8,7 @@ Data cleaning, fast aggregation with PivotTables, and an interactive dashboard (
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/GDocs_Favicon_Recreation.png" alt="Google Docs" width="18" style="vertical-align:middle; margin-right:6px;"></a> [**Google Docs:**](https://docs.google.com/document/d/1NhvtaXnxcbc3xwRru4Stq_qN87IqSo_fHpozZlbh62Q/) step‑by‑step walkthrough (data prep, pivots, visuals, and business takeaways).
 
-<p><img src="https://github.com/user-attachments/assets/1d446539-1d84-4747-9057-50a769a71894" alt="Excel dashboard preview" width="380"></p>
+<p><img src="https://github.com/user-attachments/assets/75d77bec-8cde-43ab-9065-c4989ea02205" alt="Toy Store Excel Dashboard" width="380"></p>
 
 <p> <img src="https://framerusercontent.com/images/1mpc8M10X3J323dCmqnRE1itRs.png?scale-down-to=512" width="16" style="vertical-align:middle; margin-right:6px;"> Inspired by the <a href="https://mavenanalytics.io/crash-courses/excel-crash-course-step-by-step-dashboard-tutorial-for-beginners">Maven Analytics: Excel Crash Course</a>. </p>
 
