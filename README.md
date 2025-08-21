@@ -13,7 +13,7 @@ Data cleaning, fast aggregation with PivotTables, and an interactive dashboard (
 <p> <img src="https://framerusercontent.com/images/1mpc8M10X3J323dCmqnRE1itRs.png?scale-down-to=512" width="16" style="vertical-align:middle; margin-right:6px;"> Inspired by the <a href="https://mavenanalytics.io/crash-courses/excel-crash-course-step-by-step-dashboard-tutorial-for-beginners">Maven Analytics: Excel Crash Course</a>. </p>
 
 ## Connect
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="2.5%"> [Linkedin](https://www.linkedin.com/in/tonekaboni/)
 <br><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="2.5%"> [Portfolio](https://atonekaboni.github.io/)
-
+<br><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="2.5%"> [Linkedin](https://www.linkedin.com/in/tonekaboni/)
+<br><img src="https://framerusercontent.com/images/1mpc8M10X3J323dCmqnRE1itRs.png" width="2%"> [Maven Portfolio](https://mavenshowcase.com/profile/9881d3c0-4031-7020-46f3-98e7d2f7790a)
 
