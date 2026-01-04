@@ -68,7 +68,7 @@ Data cleaning, fast aggregation with PivotTables, and an interactive dashboard (
 
 <p align="center"><img src="https://github.com/user-attachments/assets/75d77bec-8cde-43ab-9065-c4989ea02205" alt="Toy Store Excel Dashboard" width="380"></p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Google Docs" width="20" style="vertical-align:middle; margin-right:6px;"></a> [**Excel File:**](https://github.com/atonekaboni/Toy_Store/blob/main/Excel/Maven%20Toys%20Dashboard.xlsx) PivotTables and Dashboard
+<img src="https://github.com/user-attachments/assets/99e76e7a-dbe3-4184-9081-72f7362b4804" alt="Excel" width="20" style="vertical-align:middle; margin-right:6px;"></a> [**Excel File:**](https://github.com/atonekaboni/Toy_Store/blob/main/Excel/Maven%20Toys%20Dashboard.xlsx) PivotTables and Dashboard
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/GDocs_Favicon_Recreation.png" alt="Google Docs" width="18" style="vertical-align:middle; margin-right:6px;"></a> [**Google Docs:**](https://docs.google.com/document/d/1NhvtaXnxcbc3xwRru4Stq_qN87IqSo_fHpozZlbh62Q/) Pivots and Visuals.
 
