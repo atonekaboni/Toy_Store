@@ -82,6 +82,6 @@ Data cleaning, fast aggregation with PivotTables, and an interactive dashboard (
 <br>
 
 ## Connect
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="2.5%"> [Portfolio](https://atonekaboni.github.io/)
-<br><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="2.5%"> [Linkedin](https://www.linkedin.com/in/tonekaboni/)
-<br><img src="https://framerusercontent.com/images/1mpc8M10X3J323dCmqnRE1itRs.png" width="2%"> [Maven Portfolio](https://mavenshowcase.com/profile/9881d3c0-4031-7020-46f3-98e7d2f7790a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonekaboni)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/atonekaboni/)
+[![Website](https://img.shields.io/badge/Website-e53935?style=flat-square&logo=google-chrome&logoColor=white)](https://atonekaboni.ir)
